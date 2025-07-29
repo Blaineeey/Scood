@@ -1,0 +1,15 @@
+# Node
+node_modules/
+dist/
+.env
+*.log
+
+# React Native
+ios/
+android/
+.expo/
+.expo-shared/
+
+# Others
+.DS_Store
+.idea/
